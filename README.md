@@ -1,9 +1,14 @@
 **Análisis del Impacto del Cambio Climático en la Agricultura y Consumo de Azúcar en India 🌱🍬**
 
-Este proyecto utiliza dos conjuntos de datos en formato CSV: climate_change_on_agriculture y sugar_consumption, obtenidos de Kaggle. La investigación comienza con un análisis del impacto del cambio climático en la agricultura, con un enfoque inicial en el sector azucarero en India. A medida que profundizamos en los datos, descubrimos información relevante que nos permitió redirigir el análisis hacia un objetivo más amplio, pero igualmente interesante. 😄
+Este proyecto utiliza dos conjuntos de datos en formato CSV:
+📄climate_change_on_agriculture
+📄sugar_consumption
+(obtenidos de Kaggle)
+
+La investigación comenzaba con un análisis del impacto del cambio climático en la agricultura. A medida que profundizamos en los datos, descubrimos información relevante que nos permitió redirigir el análisis, con un enfoque en el sector azucarero en India, hacia un objetivo más amplio, pero igualmente interesante. 
 
 **Objetivo 🎯**
-El propósito de este análisis es explorar la relación entre el cambio climático, la producción de azúcar y el consumo en India, para obtener una visión más global y contextualizada de la situación. Aunque los datos provienen de fuentes separadas y no permiten una unión directa entre ellos, trabajamos con ambos conjuntos de datos de manera complementaria, tratando los CSV como una sola unidad para obtener insights coherentes y valiosos. 📊
+El propósito de este análisis es explorar la relación entre la producción de azúcar y el consumo en India, para obtener una visión más global y contextualizada de la situación. Aunque los datos provienen de fuentes separadas y no permiten una unión directa entre ellos, trabajamos con ambos conjuntos de datos de manera complementaria, tratando los CSV como una sola unidad para obtener insights coherentes y valiosos. 📊
 
 **Análisis Realizado 🔍**
 Análisis Exploratorio de Datos (EDA) 📉
