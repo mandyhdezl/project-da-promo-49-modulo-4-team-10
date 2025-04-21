@@ -1,4 +1,4 @@
-<h1>**Análisis del Impacto del Cambio Climático en la Agricultura y Consumo de Azúcar en India 🌱🍬**
+# **Análisis del Impacto del Cambio Climático en la Agricultura y Consumo de Azúcar en India 🌱🍬*
 
 Este proyecto utiliza dos conjuntos de datos en formato CSV:
 📄climate_change_on_agriculture
@@ -7,10 +7,10 @@ Este proyecto utiliza dos conjuntos de datos en formato CSV:
 
 La investigación comenzaba con un análisis del impacto del cambio climático en la agricultura. A medida que profundizamos en los datos, descubrimos información relevante que nos permitió redirigir el análisis, con un enfoque en el sector azucarero en India, hacia un objetivo más amplio, pero igualmente interesante. 
 
-**Objetivo 🎯**
+## **Objetivo 🎯**
 El propósito de este análisis es explorar la relación entre la producción de azúcar y el consumo en India, para obtener una visión más global y contextualizada de la situación. Aunque los datos provienen de fuentes separadas y no permiten una unión directa entre ellos, trabajamos con ambos conjuntos de datos de manera complementaria, tratando los CSV como una sola unidad para obtener insights coherentes y valiosos. 📊
 
-**Análisis Realizado 🔍**
+### **Análisis Realizado 🔍**
 Análisis Exploratorio de Datos (EDA) 📉
 A través de un exhaustivo proceso de Análisis Exploratorio de Datos (EDA), utilizando herramientas como Visual Code, comenzamos a explorar las tendencias de producción de azúcar y consumo en India. Algunos de los hallazgos clave incluyen:
 
@@ -38,7 +38,7 @@ Aunque India es un gran productor de azúcar, también importa grandes cantidade
 
 A pesar del alto consumo de azúcar, no parece haber una correlación directa entre el consumo y las tasas de obesidad o diabetes en India. Esto puede deberse al uso de azúcar en una variedad de productos procesados, más allá de su consumo directo como alimento.
 
-**Visualización en Tableau 📊**
+## **Visualización en Tableau 📊**
 Para responder a las preguntas planteadas durante el análisis, hemos desarrollado una serie de visualizaciones dinámicas utilizando Tableau, lo que nos permitió presentar los datos de manera clara y comprensible. Las visualizaciones abarcan:
 
 -Producción y consumo de azúcar por región en India. 🌍
@@ -47,7 +47,7 @@ Para responder a las preguntas planteadas durante el análisis, hemos desarrolla
 
 -Evolución de las emisiones de CO2 relacionadas con la producción de azúcar en India. 🌱
 
-**Próximos Pasos 🚀**
+## **Próximos Pasos 🚀**
 En futuras fases del proyecto, nos gustaría ampliar el análisis hacia un enfoque más social, investigando:
 
 -Condiciones laborales de los trabajadores y agricultores de la caña de azúcar. 👩‍🌾👨‍🌾
