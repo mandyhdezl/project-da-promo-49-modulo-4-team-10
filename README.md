@@ -1,8 +1,11 @@
 # **Análisis del Impacto del Cambio Climático en la Agricultura y Consumo de Azúcar en India 🌱🍬**
 
 Este proyecto utiliza dos conjuntos de datos en formato CSV:
+
 📄climate_change_on_agriculture
+
 📄sugar_consumption
+
 (obtenidos de Kaggle)
 
 La investigación comenzaba con un análisis del impacto del cambio climático en la agricultura. A medida que profundizamos en los datos, descubrimos información relevante que nos permitió redirigir el análisis, con un enfoque en el sector azucarero en India, hacia un objetivo más amplio, pero igualmente interesante. 
