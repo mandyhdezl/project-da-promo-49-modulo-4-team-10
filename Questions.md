@@ -9,14 +9,3 @@
 
 - Niveles de salud INDIA (df_sugar) (Diabetes, Obesidad): Tablas de correlación(para ver Obesidad VS Consumo promedio azucar/dia) (en ambos data frames)
 
-
-- Gov_subsidies : 
-
-
-
-
-
-
-
-
-** USOS DE LA CAÑA DE AZUCAR EN LA INDIA --> pieplot con %
